@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Final Attendance Project</string>
+
+    <!-- defining departments here -->
+    <string-array name="dept_names">
+        <item>CSE</item>
+        <item>IT</item>
+        <item>MEC</item>
+        <item>ENTC</item>
+        <item>CIVIL</item>
+    </string-array>
+
+    <!-- defining classes here -->
+    <string-array name="dept_classes">
+        <item>SE</item>
+        <item>TE</item>
+        <item>BE</item>
+    </string-array>
+
+
+    <!-- defining divisions  here -->
+    <string-array name="dept_div">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+    </string-array>
+
+    //BE subjects
+    <string-array name="BE_SUb">
+        <item>BDA</item>
+        <item>ICS</item>
+        <item>WT</item>
+        <item>MIS</item>
+        <item>STQA</item>
+    </string-array>
+
+    //TE Subjects
+    <string-array name="TE_SUb">
+        <item>TE1</item>
+        <item>TE2</item>
+        <item>TE3</item>
+        <item>TE4</item>
+        <item>TE5</item>
+    </string-array>
+
+</resources>

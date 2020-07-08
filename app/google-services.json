@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "550288077514",
+    "firebase_url": "https://final-attendance-project.firebaseio.com",
+    "project_id": "final-attendance-project",
+    "storage_bucket": "final-attendance-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550288077514:android:0d9f47d503ccedd3f2fa33",
+        "android_client_info": {
+          "package_name": "com.example.finalattendanceproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550288077514-c7hg29q5pboc058tbaf0lp7vq2uebfl2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.finalattendanceproject",
+            "certificate_hash": "41d9c2b7b70598684a4aeaf3edb711cbf4600874"
+          }
+        },
+        {
+          "client_id": "550288077514-mu1alkhslnes6lncuf36u9jums0d62l6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ4-zO4TJgZGggKQtpJn5rPU9AY_VBtMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550288077514-mu1alkhslnes6lncuf36u9jums0d62l6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

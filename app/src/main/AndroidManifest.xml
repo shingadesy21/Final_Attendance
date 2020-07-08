@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.finalattendanceproject">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".CheckPStatus.CheckPStatus"></activity>
+        <activity android:name=".Take_Presenty.BE_C_BDA.BE_CSE_C_BDA" />
+        <activity android:name=".Take_Presenty.BE_C_WT.BE_CSE_C_WT" />
+        <activity android:name=".Take_Presenty.MIS.BE_CSE_C_MIS" />
+        <activity android:name=".Take_Presenty.ICS.BE_CSE_C_ICS" />
+        <activity android:name=".Take_Presenty.STQA.BE_CSE_C_STQA" />
+        <activity android:name=".Take_Presenty.Take_Presenty" />
+        <activity android:name=".Update_stud_info.Update_Student_Info" />
+        <activity android:name=".Student_Information" />
+        <activity
+            android:name=".Add_Stud_info.AddStudent"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
